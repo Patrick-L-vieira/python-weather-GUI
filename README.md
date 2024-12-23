@@ -18,7 +18,7 @@ This is a simple weather application built using Python, Tkinter, and the `reque
 
 ## Installation
 
-1.  **Clone the repository:** If you are using git, clone this repo to your local machine: `git clone <repository_url>`. If you are not using git, download the files and extract them to a new directory.
+1.  **Clone the repository:** If you are using git, clone this repo to your local machine: git clone htps://github.com/bwuny/python-weather-GUI. If you are not using git, download the files and extract them to a new directory.
 
 2.  **Install required libraries:**
 
@@ -41,7 +41,7 @@ This is a simple weather application built using Python, Tkinter, and the `reque
 
 
 ## Custom Format Codes
-The application uses custom format codes provided by `wttr.in` to specify the desired weather parameters in the output. Refer to `wttr.in`'s documentation for a complete list of available codes. The format string used in this application is:
+The application uses custom format codes provided by `wttr.in` to specify the desired weather parameters in the output. Refer to [wttr.in](https://github.com/chubin/wttr.in) documentation for a complete list of available codes. The format string used in this application is:
 
 
 `%c+%t(%f)°C+%w+%V+%p`
