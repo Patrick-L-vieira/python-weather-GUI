@@ -1,4 +1,3 @@
-# python-weather-GUI
 # Simple Weather App using Python and Tkinter
 
 This is a simple weather application built using Python, Tkinter, and the `requests` library to fetch weather data from the [wttr.in](http://wttr.in) service.  It also implements caching using `requests-cache` to reduce API calls and improve performance.
